@@ -1,6 +1,6 @@
 ### Hi, I'm Urszula 👋
 
-## I'm QA Enginer
+## I'm QA Enginer👋
 
 <!--
 **urszula-oldak/urszula-oldak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
